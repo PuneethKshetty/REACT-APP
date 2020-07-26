@@ -61,13 +61,13 @@ It has been deployed in netlify
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
-![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(127).png)
+![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(129).png)
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(125).png)
+![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(130).png)
 
 ### `npm run build` fails to minify
-![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(126).png)
+![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(132).png)
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(126).png)
+![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(131).png)
