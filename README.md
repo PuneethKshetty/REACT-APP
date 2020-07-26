@@ -61,13 +61,13 @@ It has been deployed in netlify
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
-![Image unavialable](https://github.com/jeejo13/corona-tracker-app-react/blob/master/Screenshot/Screenshot%20(276).png)
+![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(127).png)
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-![Image unavialable](https://github.com/jeejo13/corona-tracker-app-react/blob/master/Screenshot/Screenshot%20(277).png)
+![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(125).png)
 
 ### `npm run build` fails to minify
-![Image unavialable](https://github.com/jeejo13/corona-tracker-app-react/blob/master/Screenshot/Screenshot%20(278).png)
+![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(126).png)
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-![Image unavialable](https://github.com/jeejo13/corona-tracker-app-react/blob/master/Screenshot/Screenshot%20(279).png)
+![Image unavialable](https://github.com/PuneethKshetty/REACT-APP/blob/master/Screenshots/Screenshot%20(126).png)
